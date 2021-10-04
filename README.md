@@ -6,6 +6,7 @@ A password generator that gives the user the option to decide
 ## Built With
 * HTML
 * CSS
+*Javascript
 
 ## Website
 https://jesse3421.github.io/Password-Generator/
@@ -14,5 +15,6 @@ https://jesse3421.github.io/Password-Generator/
 Made with ❤️ by Jesse Koon 
  
 
- ![Screenshot](/screencapture.pdf)
+## Screenshot
+(./passwordgenerator/screencapture.pdf)
 Format: ![Alt Text](url)
